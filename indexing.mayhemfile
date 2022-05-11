@@ -1,0 +1,5 @@
+project: milli
+target: indexing
+
+cmds:
+    - cmd: /indexing

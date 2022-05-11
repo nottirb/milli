@@ -1,0 +1,5 @@
+project: milli
+target: flatten
+
+cmds:
+    - cmd: /flatten
